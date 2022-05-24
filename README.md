@@ -1,4 +1,4 @@
-# Ceaser-Cioher-Server-Program-Responds-to-both-TCP-and-UDP-Requests
+# Ceaser-Cipher-Server-Program-Responds-to-both-TCP-and-UDP-Requests
 The server will accept requests on the same port (whether TCP or UDP), which is passed as an argument in the command line when starting the server.
 Therefore, I/O multiplexing is needed to enhance the program responsiveness.
 Server-Side:
